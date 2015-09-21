@@ -1,0 +1,2 @@
+# gettingAndCleaningData
+A repo for the course project of the "Getting and Cleaning Data" course.
