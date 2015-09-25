@@ -1,3 +1,5 @@
+#CodeBook
+
 This is a cleaned up dataset that uses data collected by UCI.
 Data was originally extracted from a smartphone's accelerometer and gyroscope. Then the data was filtered and altered (not by this script).
 
